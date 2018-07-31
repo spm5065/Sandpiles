@@ -6,8 +6,8 @@ A program which runs a [Abelian Sandpile Model](https://en.wikipedia.org/wiki/Ab
 * CMake
 
 ## Instructions
-* cmake .
-* make
+1. `cmake .`
+2. `make`
 
 ## Output
 Outputs message every 500 iterations, and updates the frame accordingly.
